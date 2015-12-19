@@ -1,2 +1,3 @@
-Release 3.0
+Release 3.1
 This release include feature 1 to 5
+This release include Hotfix 3.0
