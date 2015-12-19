@@ -1,2 +1,2 @@
-Release 2.0
-This release include feature 1 to 4
+Release 3.0
+This release include feature 1 to 5
